@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>yourgptchatbot</name>
+    <displayName>YourGPT Chatbot</displayName>
+    <version>1.0.0</version>
+    <description>Integrate YourGPT AI chatbot into your store.</description>
+    <author>YourGPT</author>
+    <tab>front_office_features</tab>
+    <need_instance>0</need_instance>
+    <ps_versions_compliancy>
+        <min>1.7.0.0</min>
+        <max>8.0.0</max>
+    </ps_versions_compliancy>
+</module>
