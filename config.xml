@@ -3,7 +3,7 @@
     <name>yourgptchatbot</name>
     <displayName>YourGPT Chatbot</displayName>
     <version>1.0.0</version>
-    <description>Integrate YourGPT AI chatbot into your store.</description>
+    <description>Integrate YourGPT AI chatbot into your PrestaShop store.</description>
     <author>YourGPT</author>
     <tab>front_office_features</tab>
     <need_instance>0</need_instance>
